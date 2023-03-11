@@ -1,0 +1,1 @@
+select Country, DeathPreceding7days, Population from covid2 where DeathPreceding7days !=0 order by Population desc limit 3;

@@ -1,0 +1,1 @@
+select sum(DeathsLast7days) from covid2;

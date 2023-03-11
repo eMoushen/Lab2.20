@@ -1,0 +1,1 @@
+select Country, DeathsLast7days from covid2 where DeathsLast7days between 1 and 10;

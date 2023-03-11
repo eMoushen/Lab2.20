@@ -1,0 +1,1 @@
+select Country, WeeklyCaseChange from covid2 where WeeklyCaseChange >=0 order by WeeklyCaseChange limit 5;

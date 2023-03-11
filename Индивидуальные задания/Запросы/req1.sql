@@ -1,0 +1,1 @@
+select Country, min(CasesLast7days) from covid2;

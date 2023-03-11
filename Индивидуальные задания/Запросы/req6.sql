@@ -1,0 +1,1 @@
+select Country, CasesLast7days, DeathsLast7days1M, Population from covid2 where country = 'Russia' or country = 'Spain';
